@@ -14,6 +14,6 @@ The user navigation dataset was recorded while 40 participants watched 150 loope
 
 # Reference
 We kindly ask that should you mention our dataset in your publication, that you would reference the following paper:
-[1]. J. Li, X. Wang, Z. Liu, and Q. Li, “A QoE Model in Point Cloud Video Streaming,” 2021, arXiv:2111.02985.
-[2]. Zhi, Liu, Qiyue Li, Xianfu Chen, Celimuge Wu, Susumu Ishihara, Jie Li, and Yusheng Ji. "Point Cloud Video Streaming: Challenges and Solutions." IEEE Network (2021). 
+* [1]. J. Li, X. Wang, Z. Liu, and Q. Li, “A QoE Model in Point Cloud Video Streaming,” 2021, arXiv:2111.02985.
+* [2]. Zhi, Liu, Qiyue Li, Xianfu Chen, Celimuge Wu, Susumu Ishihara, Jie Li, and Yusheng Ji. "Point Cloud Video Streaming: Challenges and Solutions." IEEE Network (2021). 
 
